@@ -10,4 +10,5 @@ https://github.com/thegrokery/wednesday-lessons/issues
   * Box model (block, inline, inline block)
   * Centering (inline vs block)
   * Absolute / relative positioning
+  * Media queries / mobile testing
 * Javascript
